@@ -12,6 +12,9 @@
   <a href="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/tree/main/Documenta%C3%A7%C3%A3o/Relat%C3%B3rio%20de%20projeto" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
+  <a href="https://www.figma.com/file/mpd1GtTeCONk8l4bhU4Bo3/LDS-2022%2F2023?node-id=192%3A2131&t=wNMVrqOXZAhWajbC-0" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Figma&amp;color=grey&amp;logo=Figma&amp;logoColor=FFFFFF&amp;label=" alt="Figma">
+  </a>
   <a href="https://gitlab.estg.ipp.pt/LDS2223_03/lds2223_03" target="_blank">
     <img src="https://img.shields.io/badge/-Original%20repository-grey?style=for-the-badge"/>
   </a>
