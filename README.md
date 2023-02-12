@@ -1,6 +1,8 @@
 <h1 align="center">Practical Work on Laboratório de Desenvolvimento de Software (Software Development Laboratory)</h1>
 <h2 align="center">Web3/Blockchain – Traceabilidade de produção (Production traceability)</h2>
 
+<img src="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/blob/main/images/MyTrace.png?raw=true"/>
+
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=LDS&color=sucess"/>
@@ -59,6 +61,12 @@ docker compose up
 docker compose -f docker-compose.prod.yml up
 ```
 
+---
+
+<h2>Pipeline</h2>
+
+
+<img src="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/blob/main/images/Pipeline.png?raw=true"/>
 
 ---
 
