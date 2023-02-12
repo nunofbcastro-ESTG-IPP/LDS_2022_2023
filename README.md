@@ -47,6 +47,12 @@
 docker compose up
 ```
 
+<h4>Endpoints</h4>
+
+- API http://localhost/api
+- Swagger http://localhost/swagger
+- Front-end http://localhost:3000
+
 <h3>How to run project in production mode</h3>
 
 ```
