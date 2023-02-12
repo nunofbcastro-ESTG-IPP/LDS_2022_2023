@@ -6,6 +6,7 @@
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=LDS&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=17&color=sucess"/>
   <a href="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/tree/main/Documenta%C3%A7%C3%A3o/Enunciado" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
