@@ -1,16 +1,16 @@
 <h1 align="center">Practical Work on Laboratório de Desenvolvimento de Software (Software Development Laboratory)</h1>
 <h2 align="center">Web3/Blockchain – Traceabilidade de produção (Production traceability)</h2>
 
-<img src="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/blob/main/images/MyTrace.png?raw=true"/>
+<img src="/images/MyTrace.png?raw=true"/>
 
 <p>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2022/2023&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=LDS&color=sucess"/>
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=17&color=sucess"/>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/tree/main/Documenta%C3%A7%C3%A3o/Enunciado" target="_blank">
+  <a href="/Documentação/Enunciado" target="_blank">
     <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/tree/main/Documenta%C3%A7%C3%A3o/Relat%C3%B3rio%20de%20projeto" target="_blank">
+  <a href="/Documentação/Relatório de projeto/Relatório_LDS_Grupo_03.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
   <a href="https://www.figma.com/file/mpd1GtTeCONk8l4bhU4Bo3/LDS-2022%2F2023?node-id=192%3A2131&t=wNMVrqOXZAhWajbC-0" target="_blank">
@@ -70,7 +70,7 @@ docker compose -f docker-compose.prod.yml up
 <h2>Pipeline</h2>
 
 
-<img src="https://github.com/nunofbcastro-ESTG-IPP/LDS_2022_2023/blob/main/images/Pipeline.png?raw=true"/>
+<img src="/images/Pipeline.png?raw=true"/>
 
 ---
 
